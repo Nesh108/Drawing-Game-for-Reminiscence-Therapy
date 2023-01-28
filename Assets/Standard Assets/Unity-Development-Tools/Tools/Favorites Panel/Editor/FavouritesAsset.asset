@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 532d6ca4b9dfd794eb0118a3f70bdfbf, type: 3}
+  m_Name: FavouritesAsset
+  m_EditorClassIdentifier: 
+  favs:
+  - categoryId: 16
+    obj: {fileID: 11500000, guid: ff10a8fbf54eeca4493dcefffad925ca, type: 3}
+  - categoryId: 16
+    obj: {fileID: 11500000, guid: 90113b3cf9780463daba4c533abd24ec, type: 3}
+  - categoryId: 16
+    obj: {fileID: 11500000, guid: bd34c13c084b7f64bb6e723c01c70eed, type: 3}
+  - categoryId: 16
+    obj: {fileID: 11500000, guid: d4899568d45658a49aeeb42b761a9bbb, type: 3}
+  - categoryId: 16
+    obj: {fileID: 11500000, guid: 610b46b5b2caf344cbe292e77e18090b, type: 3}
+  - categoryId: 17
+    obj: {fileID: 102900000, guid: b8b6aa7da253c4f82994a7f491bee016, type: 3}
+  - categoryId: 17
+    obj: {fileID: 102900000, guid: 8bb97ece4bb02ef4d94ee322a318f275, type: 3}
+  - categoryId: 17
+    obj: {fileID: 102900000, guid: 5de326fd78f917745b2b67590ba267e4, type: 3}
+  - categoryId: 17
+    obj: {fileID: 102900000, guid: 6a178ec146bb2ad4da2fbe5117d7b2b7, type: 3}
+  - categoryId: 17
+    obj: {fileID: 102900000, guid: 36ea21b7c7fe1534cab62678b6b9828e, type: 3}
+  - categoryId: 16
+    obj: {fileID: 11500000, guid: 7065397ff8184621aa3ca4f854491259, type: 3}
+  - categoryId: 17
+    obj: {fileID: 102900000, guid: cba0a55d4f98d8843b9f10f6e3bedffb, type: 3}
+  categories:
+  - id: 16
+    name: Scripts
+  - id: 17
+    name: Scenes
+  - id: 18
+    name: Objects
+  nextCategoryId: 19
